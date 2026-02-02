@@ -26,7 +26,7 @@ Passionate coding newbie & problem solver into **Python**, **MySQL**, and **AI/M
 - Always experimenting with **new people and ideas** 🧪
 
 ## 📫 Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/31jharshit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/31jharshit)
 
 **Let's build something awesome! ✨**
 
