@@ -6,7 +6,7 @@ An AI/ML 🤖 Engineering student from India.
 
 Passionate coding newbie & problem solver into **Python**, **MySQL**, and **AI/ML**—channeling late-night **chai vibes ☕** into creative code while chasing hands-on growth and exploring new tech! 💻🚀
 
-![Your skills in action](https://github-readme-stats.vercel.app/api?username=harshitjain&show_icons=true&theme=radical)
+
 
 </div>
 
@@ -26,7 +26,7 @@ Passionate coding newbie & problem solver into **Python**, **MySQL**, and **AI/M
 - Always experimenting with **new people and ideas** 🧪
 
 ## 📫 Reach Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/31jharshit)
 
 **Let's build something awesome! ✨**
 
